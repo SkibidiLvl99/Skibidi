@@ -1411,7 +1411,7 @@ updateDashboard();
 
 setInterval(
     updateDashboard,
-    1000
+    500
 );
 
 </script>
